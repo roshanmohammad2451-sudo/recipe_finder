@@ -2,7 +2,7 @@
 
 A stunning, modern, and responsive web application that helps you discover delicious recipes from around the world based on ingredients or dish names. Powered by HTML, CSS, JavaScript, and live data from TheMealDB API.
 
-[![Live Site](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)](http://127.0.0.1:5500/index.html)
+[![Live Site](https://img.shields.io/badge/Live-Demo-brightgreen.svg?style=flat-square)]([(https://roshanmohammad2451-sudo.github.io/recipe_finder/])
 
 
 ---
