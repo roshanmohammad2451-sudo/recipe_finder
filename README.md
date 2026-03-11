@@ -39,20 +39,6 @@ A stunning, modern, and responsive web application that helps you discover delic
 
 ---
 
-## 🚀 Live Demo & Usage
-Since this project uses a pure frontend architecture (`index.html`, `styles.css`, `app.js`), you do not need any local servers or backend environments to run it!
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/recipe-finder.git
-   ```
-2. **Open the App:**
-   Simply double-click `index.html` in the project folder to open it in your default web browser.
-3. **Start Searching!**
-   Type an ingredient like `tomato` or `salmon` in the search bar and watch the recipes populate.
-
----
-
 ## 🛠️ Technology Stack
 - **HTML5**: Semantic structure and SVG integrations.
 - **Vanilla CSS3**: Custom properties, Flexbox/Grid layouts, backdrop filters (glassmorphism), and keyframe animations. Dark mode implementation via `data-theme` attribute.
@@ -88,6 +74,7 @@ If you have suggestions for improving this project:
 ## 👨‍💻 Author
 
 **Roshan Ali Mohammad**
+If you like this project, give it a ⭐ on GitHub!
 
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
