@@ -74,6 +74,9 @@ If you have suggestions for improving this project:
 ## 👨‍💻 Author
 
 **Roshan Ali Mohammad**
+
+---
+
 If you like this project, give it a ⭐ on GitHub!
 
 ## 📝 License
