@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Finder</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-decor blob-1"></div>
+    <div class="background-decor blob-2"></div>
+
+    <nav class="navbar glass-effect">
+        <div class="container nav-content">
+            <a href="#" class="logo">
+                <i class="fa-solid fa-utensils"></i>
+                <span>RecipeFinder</span>
+            </a>
+            <div class="nav-controls">
+                <button id="showFavBtn" class="nav-btn" aria-label="Show Favorites" title="Show Favorites">
+                    <i class="fa-solid fa-heart"></i>
+                </button>
+                <button id="themeToggle" class="nav-btn theme-toggle" aria-label="Toggle Dark Mode" title="Toggle Dark Mode">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Hero & Search Section -->
+        <section class="hero-section">
+            <h1 class="hero-title">What are you craving today?</h1>
+            <p class="hero-subtitle">Discover delicious recipes by name or ingredients.</p>
+            
+            <div class="search-container glass-effect">
+                <i class="fa-solid fa-search search-icon"></i>
+                <input type="text" id="searchInput" placeholder="Search for recipes or ingredients (e.g., tomato, chicken)...">
+            </div>
+
+            <!-- Filters -->
+            <div class="filters-container">
+                <div class="filter-group">
+                    <button class="filter-btn active" data-filter="all">All</button>
+                    <button class="filter-btn" data-filter="veg">Vegetarian</button>
+                    <button class="filter-btn" data-filter="non-veg">Non-Veg</button>
+                </div>
+                
+                <div class="select-filters">
+                    <select id="difficultyFilter" class="glass-select">
+                        <option value="all">Any Difficulty</option>
+                        <option value="easy">Easy</option>
+                        <option value="medium">Medium</option>
+                        <option value="hard">Hard</option>
+                    </select>
+
+                    <select id="timeFilter" class="glass-select">
+                        <option value="all">Any Prep Time</option>
+                        <option value="under30">&lt; 30 mins</option>
+                        <option value="over30">&gt; 30 mins</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Loader -->
+        <div id="loader" class="loader-container hidden">
+            <div class="spinner"></div>
+            <p>Cooking up recipes...</p>
+        </div>
+
+        <!-- Recipe Status / Error Messages -->
+        <div id="statusMessage" class="status-message hidden"></div>
+
+        <!-- Recipe Grid -->
+        <section class="recipe-grid" id="recipeGrid">
+            <!-- Cards will be injected here via JS -->
+        </section>
+    </main>
+
+    <!-- Modal for Recipe Details -->
+    <div id="recipeModal" class="modal-overlay hidden">
+        <div class="modal glass-effect">
+            <button id="closeModal" class="close-btn"><i class="fa-solid fa-xmark"></i></button>
+            <div class="modal-content" id="modalContent">
+                <!-- Recipe details injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

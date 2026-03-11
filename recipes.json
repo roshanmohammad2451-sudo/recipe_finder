@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1,
+    "title": "Creamy Tomato Basil Soup",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "2 lbs fresh tomatoes",
+      "1 cup fresh basil",
+      "1/2 cup heavy cream",
+      "2 cloves garlic",
+      "1 onion, chopped",
+      "2 cups vegetable broth",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Roast tomatoes, garlic, and onions in the oven at 400°F for 30 minutes.",
+      "Transfer roasted vegetables to a blender and blend until smooth.",
+      "Pour the mixture into a pot and add vegetable broth. Simmer for 10 minutes.",
+      "Stir in heavy cream and fresh basil.",
+      "Season with salt and pepper. Serve hot."
+    ],
+    "prepTime": 45,
+    "difficulty": "Medium",
+    "isVegetarian": true
+  },
+  {
+    "id": 2,
+    "title": "Classic chicken Burger",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "1 lb chicken (80/20)",
+      "4 brioche buns",
+      "4 slices cheddar cheese",
+      "1 tomato, sliced",
+      "1 red onion, sliced",
+      "Lettuce leaves",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Form chicken into 4 equal-sized patties.",
+      "Season both sides of the patties generously with salt and pepper.",
+      "Grill or pan-fry the patties for 3-4 minutes per side for medium doneness.",
+      "Add a slice of cheese to each patty during the last minute of cooking.",
+      "Toast the buns and assemble the burgers with lettuce, tomato, onion, and your favorite sauces."
+    ],
+    "prepTime": 20,
+    "difficulty": "Easy",
+    "isVegetarian": false
+  },
+  {
+    "id": 3,
+    "title": "Mushroom Risotto",
+    "image": "https://images.unsplash.com/photo-1476124369491-e9aa153ca8f0?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "1.5 cups Arborio rice",
+      "1 lb mixed mushrooms (cremini, shiitake)",
+      "4 cups vegetable broth (kept warm)",
+      "1/2 cup dry white wine",
+      "1/2 cup grated Parmesan cheese",
+      "1 shallot, finely chopped",
+      "2 tbsp butter",
+      "2 tbsp olive oil"
+    ],
+    "instructions": [
+      "Sauté mushrooms in olive oil until browned. Set aside.",
+      "In the same pan, sauté shallots until translucent.",
+      "Add rice and toast for 1-2 minutes until edges are translucent.",
+      "Pour in white wine and stir until absorbed.",
+      "Add warm broth one ladle at a time, stirring constantly until liquid is absorbed before adding more.",
+      "When rice is al dente, stir in cooked mushrooms, butter, and Parmesan. Serve immediately."
+    ],
+    "prepTime": 40,
+    "difficulty": "Hard",
+    "isVegetarian": true
+  },
+  {
+    "id": 4,
+    "title": "Grilled Lemon Herb Chicken",
+    "image": "https://images.unsplash.com/photo-1598514982205-f36b96d1e8d4?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "4 boneless skinless chicken breasts",
+      "Juice and zest of 2 lemons",
+      "1/4 cup olive oil",
+      "2 cloves garlic, minced",
+      "1 tbsp dried oregano",
+      "1 tbsp fresh rosemary, chopped",
+      "Salt and black pepper"
+    ],
+    "instructions": [
+      "Whisk together olive oil, lemon juice, lemon zest, garlic, and herbs to make the marinade.",
+      "Place chicken breasts in a ziplock bag and pour the marinade over them. Refrigerate for at least 30 minutes.",
+      "Preheat grill or grill pan to medium-high heat.",
+      "Grill chicken for 6-8 minutes per side, or until internal temperature reaches 165°F.",
+      "Let chicken rest for 5 minutes before slicing and serving."
+    ],
+    "prepTime": 45,
+    "difficulty": "Easy",
+    "isVegetarian": false
+  },
+  {
+    "id": 5,
+    "title": "Avocado Toast with Poached Egg",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "2 large eggs",
+      "1 tsp lemon juice",
+      "Red pepper flakes",
+      "Salt and pepper",
+      "Optional: Cherry tomatoes, microgreens"
+    ],
+    "instructions": [
+      "Toast the sourdough bread slices until golden brown.",
+      "Mash the avocado with lemon juice, salt, and pepper.",
+      "Bring a pot of water to a gentle simmer. Create a vortex and gently drop in the eggs.",
+      "Poach eggs for 3-4 minutes until the whites are set but yolks are still runny.",
+      "Spread the mashed avocado on the toast, top with a poached egg, and sprinkle with red pepper flakes."
+    ],
+    "prepTime": 15,
+    "difficulty": "Medium",
+    "isVegetarian": true
+  },
+  {
+    "id": 6,
+    "title": "Spicy Salmon Sushi Bowl",
+    "image": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "1 cup sushi rice",
+      "8 oz sashimi-grade salmon, cubed",
+      "2 tbsp mayonnaise",
+      "1 tbsp sriracha",
+      "1/2 cucumber, sliced",
+      "1/2 avocado, sliced",
+      "Sesame seeds and nori strips",
+      "Soy sauce for serving"
+    ],
+    "instructions": [
+      "Cook the sushi rice according to package instructions.",
+      "In a bowl, mix the cubed salmon with mayonnaise and sriracha.",
+      "Divide the cooked rice into bowls.",
+      "Top with spicy salmon, cucumber slices, and avocado.",
+      "Garnish with sesame seeds and nori strips. Serve with soy sauce."
+    ],
+    "prepTime": 25,
+    "difficulty": "Medium",
+    "isVegetarian": false
+  },
+  {
+    "id": 7,
+    "title": "Vegan Lentil Curry",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc0?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "1 cup red lentils, rinsed",
+      "1 can (14oz) coconut milk",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "2 tbsp curry powder",
+      "1 tsp turmeric",
+      "2 cups vegetable broth",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat a pot over medium heat and sauté onions until soft.",
+      "Add garlic, ginger, curry powder, and turmeric. Cook for 1 minute until fragrant.",
+      "Stir in the lentils, coconut milk, and vegetable broth.",
+      "Bring to a boil, then reduce heat and simmer for 20-25 minutes until lentils are tender.",
+      "Garnish with fresh cilantro and serve with rice or naan bread."
+    ],
+    "prepTime": 35,
+    "difficulty": "Easy",
+    "isVegetarian": true
+  },
+  {
+    "id": 8,
+    "title": "Garlic Butter Steak Bites",
+    "image": "https://images.unsplash.com/photo-1628107577526-778841a12eaf?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "1.5 lbs sirloin steak, cut into 1-inch cubes",
+      "1 tbsp olive oil",
+      "3 tbsp butter",
+      "4 cloves garlic, minced",
+      "1 tbsp fresh parsley, chopped",
+      "Salt and freshly ground black pepper"
+    ],
+    "instructions": [
+      "Season the steak cubes generously with salt and pepper.",
+      "Heat olive oil in a heavy skillet over high heat until smoking.",
+      "Add steak bites in a single layer and sear for 1-2 minutes without moving them.",
+      "Flip the bites and cook for another minute.",
+      "Reduce heat to medium, add butter and garlic to the pan, and toss the steak gently to coat for 30 seconds.",
+      "Remove from heat, garnish with parsley, and serve immediately."
+    ],
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "isVegetarian": false
+  },
+  {
+    "id": 9,
+    "title": "Caprese Salad",
+    "image": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "3 large ripe tomatoes, sliced",
+      "8 oz fresh mozzarella, sliced",
+      "1 bunch fresh basil leaves",
+      "2 tbsp extra virgin olive oil",
+      "1 tbsp balsamic glaze",
+      "Coarse sea salt",
+      "Freshly ground black pepper"
+    ],
+    "instructions": [
+      "Arrange alternating slices of tomato and mozzarella on a serving platter.",
+      "Tuck fresh basil leaves between the slices.",
+      "Drizzle extra virgin olive oil and balsamic glaze over the salad.",
+      "Sprinkle generously with coarse sea salt and black pepper.",
+      "Serve immediately at room temperature."
+    ],
+    "prepTime": 10,
+    "difficulty": "Easy",
+    "isVegetarian": true
+  },
+  {
+    "id": 10,
+    "title": "Pesto Pasta with Cherry Tomatoes",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&q=80&w=800",
+    "ingredients": [
+      "12 oz penne or fusilli pasta",
+      "1 cup fresh basil pesto",
+      "1 pint cherry tomatoes, halved",
+      "1/4 cup grated Parmesan cheese",
+      "2 tbsp pine nuts, toasted",
+      "2 cloves garlic, minced",
+      "1 tbsp olive oil"
+    ],
+    "instructions": [
+      "Boil pasta in salted water according to package directions until al dente.",
+      "While pasta cooks, heat olive oil in a pan and sauté garlic and cherry tomatoes until they just start to soften.",
+      "Drain pasta, reserving 1/4 cup of the pasta water.",
+      "Return pasta to the pot, add the pesto, cooked tomatoes, and a splash of pasta water. Toss gently to combine.",
+      "Serve topped with Parmesan cheese and toasted pine nuts."
+    ],
+    "prepTime": 25,
+    "difficulty": "Easy",
+    "isVegetarian": true
+  }
+]
